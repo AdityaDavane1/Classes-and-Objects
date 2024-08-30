@@ -58,7 +58,7 @@ int main(){
 
 /*Output:
 Student 1 details: 
-Name: Siddhnat
+Name: Aditya
 Branch: E&TC
 Year: Second
 Result: 8
@@ -70,7 +70,7 @@ Year: Second
 Result: 9
 
 Student 3 details: 
-Name: Om
+Name: ishan
 Branch: E&TC
 Year: Second
 Result: 8*/
